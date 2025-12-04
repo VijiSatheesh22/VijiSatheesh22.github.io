@@ -1,24 +1,93 @@
-.title-section {
-  text-align: center;
-  padding: 60px 20px;
-  background: linear-gradient(135deg, #1a73e8, #4f8df5);
-  border-radius: 12px;
-  color: white;
-  margin-bottom: 30px;
+/* -------------------------------------------------------
+   MODERN MINIMAL SLIDING UNDERLINE NAVBAR (OPTION 2)
+--------------------------------------------------------*/
+
+.modern-nav {
+  background: #ffffff;
+  padding: 15px 0;
+  border-bottom: 1px solid #e5e7eb;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
-.title-section h1 {
-  font-size: 40px;
-  margin-bottom: 10px;
+.nav-container {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
-.title-section h3 {
-  font-weight: 400;
-  opacity: 0.9;
-  margin-bottom: 15px;
+.nav-logo {
+  font-size: 22px;
+  font-weight: 700;
+  color: #1a73e8;
+  text-decoration: none;
 }
 
-.title-section p {
-  font-size: 18px;
-  opacity: 0.8;
+/* Desktop Menu */
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 28px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  font-size: 16px;
+  color: #333;
+  font-weight: 500;
+  position: relative;
+  padding-bottom: 4px;
+}
+
+/* Sliding underline */
+.nav-links a::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0%;
+  height: 3px;
+  background: #1a73e8;
+  transition: width 0.3s ease;
+}
+
+.nav-links a:hover::after {
+  width: 100%;
+}
+
+/* Hamburger (Mobile) */
+.nav-toggle {
+  display: none;
+  font-size: 28px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* -------------------- Mobile Responsive -------------------- */
+@media (max-width: 768px) {
+  .nav-links {
+    position: absolute;
+    top: 65px;
+    right: 0;
+    width: 100%;
+    flex-direction: column;
+    background: #ffffff;
+    padding: 20px 0;
+    gap: 18px;
+    display: none;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .nav-links.show {
+    display: flex;
+  }
+
+  .nav-toggle {
+    display: block;
+  }
 }
