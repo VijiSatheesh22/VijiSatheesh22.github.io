@@ -12,35 +12,6 @@ layout: default
 
 ---
 
-# 🧭 Navigation
-
-Use the links below to explore the complete profile:
-
-### **Core Sections**
-- [Home](index.md)
-- [Work Experience](work.md)
-- [Education](education.md)
-- [Skills](skills.md)
-
-### **Research & Academic Contributions**
-- [Publications](publications.md)
-- [Projects](projects.md)
-- [NPTEL Certifications](nptel.md)
-- [Patents](patents.md)
-- [Books](books.md)
-- [Project Grants](grants.md)
-
-### **Professional Responsibilities**
-- [Roles & Responsibilities](roles.md)
-- [Honors & Awards](awards.md)
-- [Memberships](membership.md)
-- [Activities](activities.md)
-
-### **Contact**
-- [Contact Information](contact.md)
-
----
-
 # 👋 About Me
 
 I am **Mrs. G. Vijayakumari, M.Tech., (Ph.D)** — an experienced and dedicated  
