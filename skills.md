@@ -1,27 +1,50 @@
 ---
-title: "Skills"
+title: "Technical Skills"
 layout: default
 ---
 
 # 🛠 Technical Skills
 
-- Basic knowledge in **Python**
-- Working knowledge in **Windows & Linux**
-- **PCB layout designing**
-- Characterization of Nanomaterials:
-  - AFM
-  - SEM
-  - FTIR
+### Programming & Tools
+- Python (Basic)
+- Windows & Linux OS
+- PCB Layout Designing
+
+### Nanomaterial Characterization
+- AFM
+- SEM
+- FTIR
 
 ---
 
-# 🎯 Areas of Interest
+# 🎯 Area of Interest
+- Digital Image Processing
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Nanomaterials
+- Embedded Systems
 
+---
+
+# 📚 Subjects Handled
+- Circuit Analysis  
+- Signals & Systems  
+- Embedded Systems  
 - Digital Image Processing  
-- Artificial Intelligence  
-- Machine Learning  
-- Deep Learning  
-- Nanomaterials  
+- Optical Communication  
+- Electromagnetic Fields  
+- Electronic Circuits  
+- Medical Electronics  
+
+### Labs
+- Circuits & Devices Lab  
+- Optical & Microwave Lab  
+- Engineering Practices Lab  
+- Linear Integrated Circuits Lab  
+- Digital Electronics Lab  
+- DSP Lab  
+- Circuits & Simulation Lab  
 
 ---
 
