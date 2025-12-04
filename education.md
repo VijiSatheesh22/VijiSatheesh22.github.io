@@ -5,24 +5,32 @@ layout: default
 
 # 🎓 Education
 
-## Ph.D – Pursuing  
+### Ph.D — Pursuing  
 **Anna University, Chennai**  
-Part-time Research Scholar
+Field: Artificial Intelligence & Image Processing  
 
-## M.Tech – Nanoscience & Technology  
-**MEPCO Schlenk Engineering College, Sivakasi (2011)**  
+---
+
+### M.Tech — Nanoscience & Technology (2011)  
+**MEPCO Schlenk Engineering College, Sivakasi**  
 CGPA: **8.56**
 
-## B.E – Electronics & Communication Engineering  
-**Avinashilingam University, Coimbatore (2009)**  
+---
+
+### B.E — Electronics & Communication Engineering (2009)  
+**Avinashilingam University, Coimbatore**  
 Percentage: **72.39%**
 
-## Higher Secondary  
-**Kurinji Hr. Sec School, Namakkal (2005)**  
+---
+
+### Higher Secondary (2005)  
+**Kurinji Hr. Sec School, Namakkal**  
 Percentage: **89.17%**
 
-## SSLC  
-**Government Higher Secondary School, Palappatti (2003)**  
+---
+
+### SSLC (2003)  
+**Government Higher Secondary School, Palappatti**  
 Percentage: **88.2%**
 
 ---
